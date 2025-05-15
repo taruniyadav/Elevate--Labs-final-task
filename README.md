@@ -64,7 +64,7 @@ The dashboard highlights patterns in appointment behavior. It includes  bar char
 ##  Optimization Recommendations
 
 View detailed recommendations here:  
-[ Optimization_Recommendations.md](./Optimization_Recommendations.md)
+[ Optimization_Recommendations.md](Optimization-Recommendations.md)
 
 ---
 
