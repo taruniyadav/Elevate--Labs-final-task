@@ -15,7 +15,7 @@ Based on analysis using a decision tree model and Power BI dashboards, the follo
 - Avoid first-time appointments on high no-show days (e.g., Mondays).
 - Prioritize mid-week scheduling for longer or important visits.
 
-## 🏘 4. Neighbourhood-Based Outreach
+##  4. Neighbourhood-Based Outreach
 - Focus communication efforts in neighborhoods with high no-show patterns.
 - Address local barriers such as transportation or clinic access.
 
